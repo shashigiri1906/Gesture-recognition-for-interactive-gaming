@@ -26,6 +26,17 @@ In this project, we'll develop a gesture recognition system for interactive gami
 ### Step 5: Develop a Bluetooth App
 - Create a mobile application to establish Bluetooth communication with your Arduino Nano BLE 33.
 - Implement the logic to receive the classified gesture data and trigger appropriate actions in your app.
+- one MIT app inventor application project file running in this proect is given which you can directly download and install in your phone or customize as per your needs.
+
 
 ## Conclusion
 By following these steps, you'll develop a gesture recognition system for interactive gaming, offering a more immersive and inclusive experience. This project is designed to make gaming more accessible and interactive, with the potential to reduce sedentary behavior and increase player engagement.
+
+## References
+(i) https://appinventor.mit.edu/
+(ii) https://tinyml.seas.upenn.edu/magic_wand_capture.html
+(iii) https://youtu.be/KV7tP3rMXLI
+(iv) https://youtu.be/Myir5BqgJJc
+(v) https://youtu.be/Hx0do6Sj0M0
+(vi) https://jsonlint.com/
+

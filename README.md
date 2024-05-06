@@ -24,6 +24,7 @@ In this project, we'll develop a gesture recognition system for interactive gami
 - Ensure that the code runs without errors and that the device can recognize gestures.
 
 ### Step 5: Develop a Bluetooth App
+![Developing a Bluetooth App](images/App.png)
 - Create a mobile application to establish Bluetooth communication with your Arduino Nano BLE 33.
 - Implement the logic to receive the classified gesture data and trigger appropriate actions in your app.
 - one MIT app inventor application project file running in this proect is given which you can directly download and install in your phone or customize as per your needs.

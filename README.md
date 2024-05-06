@@ -9,6 +9,7 @@ In this project, we'll develop a gesture recognition system for interactive gami
 ### Step 1: Create Custom Data
 - Visit [this link](https://tinyml.seas.upenn.edu/magic_wand_capture.html) to create custom gesture data.
 - Use the `projectwork.ino` file provided in this repository to set up your Arduino for data capture.
+- ![gestures](Images/gestures.png)
 
 ### Step 2: Train the Gesture Recognition Model
 - Open the Jupyter Notebook (.ipynb) in Google Colab.
@@ -24,14 +25,16 @@ In this project, we'll develop a gesture recognition system for interactive gami
 - Ensure that the code runs without errors and that the device can recognize gestures.
 
 ### Step 5: Develop a Bluetooth App
-![Developing a Bluetooth App](images/App.png)
+![Developing a Bluetooth App](Images/App.png)
 - Create a mobile application to establish Bluetooth communication with your Arduino Nano BLE 33.
 - Implement the logic to receive the classified gesture data and trigger appropriate actions in your app.
 - one MIT app inventor application project file running in this proect is given which you can directly download and install in your phone or customize as per your needs.
+- ![Designer](Images/App_design.png)
 
 
 ## Conclusion
 By following these steps, you'll develop a gesture recognition system for interactive gaming, offering a more immersive and inclusive experience. This project is designed to make gaming more accessible and interactive, with the potential to reduce sedentary behavior and increase player engagement.
+![Hardware and software](Images/Hardwareandsoftware.png)
 
 ## References
 (i) https://appinventor.mit.edu/

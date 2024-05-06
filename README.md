@@ -34,7 +34,7 @@ In this project, we'll develop a gesture recognition system for interactive gami
 
 ## Conclusion
 By following these steps, you'll develop a gesture recognition system for interactive gaming, offering a more immersive and inclusive experience. This project is designed to make gaming more accessible and interactive, with the potential to reduce sedentary behavior and increase player engagement.
-![Hardware and software](Images/complete.png)
+![Hardware and software](Images/final.png)
 
 ## References
 (i) https://appinventor.mit.edu/
